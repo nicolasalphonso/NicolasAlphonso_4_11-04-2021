@@ -3689,7 +3689,7 @@ textarea.input-lg {
 .btn.focus,
 .btn:focus,
 .btn:hover {
-    color: #333;
+    color: #A3A3A3;
     text-decoration: none
 }
 
@@ -3717,20 +3717,20 @@ fieldset[disabled] a.btn {
 }
 
 .btn-default {
-    color: #333;
+    color: #A3A3A3;
     background-color: #fff;
     border-color: #ccc
 }
 
 .btn-default.focus,
 .btn-default:focus {
-    color: #333;
+    color: #A3A3A3;
     background-color: #e6e6e6;
     border-color: #8c8c8c
 }
 
 .btn-default:hover {
-    color: #333;
+    color: #A3A3A3;
     background-color: #e6e6e6;
     border-color: #adadad
 }
@@ -3738,7 +3738,7 @@ fieldset[disabled] a.btn {
 .btn-default.active,
 .btn-default:active,
 .open>.dropdown-toggle.btn-default {
-    color: #333;
+    color: #A3A3A3;
     background-color: #e6e6e6;
     border-color: #adadad
 }
@@ -3752,7 +3752,7 @@ fieldset[disabled] a.btn {
 .open>.dropdown-toggle.btn-default.focus,
 .open>.dropdown-toggle.btn-default:focus,
 .open>.dropdown-toggle.btn-default:hover {
-    color: #333;
+    color: #A3A3A3;
     background-color: #d4d4d4;
     border-color: #8c8c8c
 }
