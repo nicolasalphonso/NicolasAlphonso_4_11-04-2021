@@ -98,12 +98,9 @@ a:hover {
     background-attachment: fixed;
 }
 
-.d-bloc {
-    color: rgba(255, 255, 255, .7);
-}
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(65, 65, 65, 0.9);
 }
 
 .d-bloc .icon-round,
@@ -132,7 +129,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .a-btn:hover,
@@ -149,7 +146,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(0,0,0, .6);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
