@@ -2068,6 +2068,9 @@ pre code {
     padding-right: 15px;
     padding-left: 15px
 }
+.col-sm-4 li {
+    height: 48px;
+}
 
 .col-xs-1,
 .col-xs-10,

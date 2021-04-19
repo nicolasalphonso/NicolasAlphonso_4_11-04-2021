@@ -697,7 +697,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 40px auto;
 }
 
 h2 {
@@ -1058,3 +1058,4 @@ h4 {
 .auteur {
     font-size: 16px;
 }
+
